@@ -14,3 +14,16 @@ In the replication package, the following materials are included:
 * Codebook.pdf - The definitions of types and indicators of technical debt that are used for manual classification.
 * Technical_debt_classification.csv - The file includes a list of identified technical debt with their introduction, types, and repayment information.
 * Analyzed_500_issues.zip - This zip file contains all 500 issues that we analyzed.
+
+Please adequately refer to the papers any time this code is being used. If you do publish a paper where this dataset helped your research, we encourage you to cite the following paper in your publications:
+
+```
+@inproceedings{li2020identification,
+  title={Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers},
+  author={Li, Yikun and Soliman, Mohamed and Avgeriou, Paris},
+  booktitle={2020 46th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)},
+  pages={495--503},
+  year={2020},
+  organization={IEEE}
+}
+```
