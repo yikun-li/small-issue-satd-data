@@ -15,7 +15,8 @@ In the replication package, the following materials are included:
 * Technical_debt_classification.csv - The file includes a list of identified technical debt with their introduction, types, and repayment information.
 * Analyzed_500_issues.zip - This zip file contains all 500 issues that we analyzed.
 
-### Citation
+## Paper
+Latest version available on [arXiv](https://arxiv.org/pdf/2007.01568.pdf)
 
 Please adequately refer to the papers any time this code is being used. If you do publish a paper where this dataset helped your research, we encourage you to cite the following paper in your publications:
 
