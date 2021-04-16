@@ -1,4 +1,4 @@
-# An Exploratory Study on Life Cycle of Technical Debt in Issue Trackers: from Introduction to Repayment
+# Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers
 
 Authors: 
 Yikun Li, Mohamed Soliman, Paris Avgeriou.
@@ -6,7 +6,7 @@ Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligenc
 Email: {yikun.li, m.a.m.soliman, p.avgeriou}@rug.nl
 
 ### Abstract:
-Technical debt refers to the situation that shortcuts or workarounds are taken to achieve short-term goals, which might negatively influence long-term benefits. Recently, lots of studies have focused on technical debt that is admitted by developers in source code comments (namely, self-admitted technical debt (SATD)). Besides, technical debt is also admitted in issue trackers, but relatively unexplored. In a manual examination of 500 issues from two open source projects (i.e. Hadoop and Camel), we identify and study the types, the introduction, and the repayment of 152 SATD items, and find that: 1) eight types of technical debt are identified in issues, namely architecture, build, code, defect, design, documentation, requirement, and test debt; 2) developers identify technical debt in issues in three cases, and a small part is identified by its creators; 3) it took 25.0 and 872.3 hours on median and on average to pay off technical debt in issue trackers.
+Technical debt refers to taking shortcuts to achieve short-term goals, which might negatively influence software maintenance in the long-term. There is increasing attention on technical debt that is admitted by developers in source code comments (termed as self-admitted technical debt or SATD). But SATD in issue trackers is relatively unexplored. We performed a case study, where we manually examined 500 issues from two open source projects (i.e. Hadoop and Camel), which contained 152 SATD items. We found that: 1) eight types of technical debt are identified in issues, namely architecture, build, code, defect, design, documentation, requirement, and test debt; 2) developers identify technical debt in issues in three different points in time, and a small part is identified by its creators; 3) the majority of technical debt is paid off, 4) mostly by those who identified it or created it; 5) the median time and average time to repay technical debt are 872.3 and 25.0 hours respectively.
 
 ### Content of the replication package:
 
